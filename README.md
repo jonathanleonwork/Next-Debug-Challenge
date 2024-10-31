@@ -25,3 +25,6 @@ The task has two stages:
 Please watch solution.mp4 that shows the final version for the debugging part. The test page works and makes a successful API request.
 
 We did not provide an example for the design part to not affect you. We want to see what you will come up with.
+
+## Bug Fix Report
+https://docs.google.com/document/d/11lXTZP-fVMRO-B3c-Ge8sw4KyTLpsmbtllH_kj-e0YU/edit?usp=sharing
